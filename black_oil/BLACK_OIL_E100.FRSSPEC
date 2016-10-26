@@ -1,0 +1,1221 @@
+ 'INTEHEAD'         298 'INTE'
+ -1034486985      201101           2       -2345       -2345       -2345
+       -2345       -2345          50          50           1        2500
+          50           3           7       -2345           3         100
+           1          10           3           0           0           0
+         147         120         116           3         107         112
+           1       -2345          20          40          58       -2345
+         107         112         180           5           0           1
+          18          24          10           7           2           4
+           0           0           1           0           0           0
+           0           0           0           0           0           0
+           0           0           0           0           1           4
+        1983           7           1           0           1           0
+           0           0           0           0           1          10
+           0           0          12           1          25           1
+       -2345       -2345           8           8           5           1
+           2           1           2           0         100           0
+           7           0         -12           1           0           1
+           0           1           0          50          50           1
+        2500           1           1           1           1          50
+          50           1          20           1           0           0
+           0           0           0           1           1           1
+           0           0           0           0           0           0
+           0          14          11          10          17           1
+           1           1           1           1           3           1
+           1           1           1           1           1          71
+         120           0           0           0           0           0
+           0          50          10           4           5           9
+           0          10           8           8          12           1
+          25           1 -1073741823 -1073741823 -1073741823 -1073741823
+           0           1           1           1          18         122
+          10           1           1           1           1         100
+          98 -1073741823 -1073741823           0           0         116
+          58         180          10           0          20         147
+           0           0           1         100          98           0
+           0           0           0           0           0           1
+           0           0           0           0           1           0
+           0           1           0           0          12           0
+           0          10          13           1           0           0
+           0           0           2           0           0        3600
+           1           6           1          10           1          10
+           1           1           1           0          30           3
+          26          10          13          10           0           0
+           0           1           1           0           0           1
+           1           0           0           0           0           0
+           0           0           0           1           0           0
+           1           2           0           0           1           1
+           1           1           2           1           0           2
+           0           2           0           2           1        2500
+           0           0           0           0           3           0
+           0           0           1           0
+ 'TIME    '           1 'DOUB'
+   0.90000000000000D+02
+ 'ITIME   '          10 'INTE'
+           1           1           4        1983           7           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+           0          46        3754        4111        9422       10164
+       10196       53978       97760      141542      185324
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.10000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.43950801E+04   0.28828996E+00
+   0.40670130E-01   0.15987700E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.10000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.31418682E+04   0.25048703E+00
+   0.53850259E-03   0.12496538E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.18000000000000D+03
+ 'ITIME   '          10 'INTE'
+           2          30           6        1983           8           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+      185356      185402      189110      189467      194778      195520
+      195552      239334      283116      326898      370680
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.20000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.43720151E+04   0.28946406E+00
+   0.40885538E-01   0.15930039E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.20000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.30918005E+04   0.25273922E+00
+   0.25489323E-02   0.12321302E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.27000000000000D+03
+ 'ITIME   '          10 'INTE'
+           3          28           9        1983           9           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+      370712      370758      374466      374823      380134      380876
+      380908      424690      468472      512254      556036
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.30000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.43399038E+04   0.29087126E+00
+   0.41049719E-01   0.15849760E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.30000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.30581296E+04   0.25582805E+00
+   0.52596885E-02   0.12203454E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.36000000000000D+03
+ 'ITIME   '          10 'INTE'
+           4          27          12        1983          10           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+      556068      556114      559822      560179      565490      566232
+      566264      610046      653828      697610      741392
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.40000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.43029795E+04   0.29260984E+00
+   0.41197423E-01   0.15757449E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.40000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.30308889E+04   0.25931981E+00
+   0.82571888E-02   0.12108111E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.45000000000000D+03
+ 'ITIME   '          10 'INTE'
+           5          26           3        1984          11           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+      741424      741470      745178      745535      750846      751588
+      751620      795402      839184      882966      926748
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.50000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.42638101E+04   0.29462665E+00
+   0.41339293E-01   0.15659525E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.50000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.30065762E+04   0.26295486E+00
+   0.11299408E-01   0.12023016E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.54000000000000D+03
+ 'ITIME   '          10 'INTE'
+           6          24           6        1984          12           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+      926780      926826      930534      930891      936202      936944
+      936976      980758     1024540     1068322     1112104
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.60000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.42237837E+04   0.29683676E+00
+   0.41477524E-01   0.15559460E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.60000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.29838345E+04   0.26659444E+00
+   0.14262090E-01   0.11943421E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.63000000000000D+03
+ 'ITIME   '          10 'INTE'
+           7          22           9        1984          13           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     1112136     1112182     1115890     1116247     1121558     1122300
+     1122332     1166114     1209896     1253678     1297460
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.70000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.41836182E+04   0.29915664E+00
+   0.41611500E-01   0.15459045E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.70000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.29621243E+04   0.27016771E+00
+   0.17086340E-01   0.11867435E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.72000000000000D+03
+ 'ITIME   '          10 'INTE'
+           8          21          12        1984          14           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     1297492     1297538     1301246     1301603     1306914     1307656
+     1307688     1351470     1395252     1439034     1482816
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.80000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.41436597E+04   0.30162269E+00
+   0.41770726E-01   0.15359149E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.80000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.29399895E+04   0.27364090E+00
+   0.19748077E-01   0.11789963E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.81000000000000D+03
+ 'ITIME   '          10 'INTE'
+           9          21           3        1985          15           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     1482848     1482894     1486602     1486959     1492270     1493012
+     1493044     1536826     1580608     1624390     1668172
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.90000000E+01   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.41040874E+04   0.30416971E+00
+   0.41940290E-01   0.15260218E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.90000000E+01  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.29175835E+04   0.27699745E+00
+   0.22239290E-01   0.11711543E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.90000000000000D+03
+ 'ITIME   '          10 'INTE'
+          10          19           6        1985          16           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     1668204     1668250     1671958     1672315     1677626     1678368
+     1678400     1722182     1765964     1809746     1853528
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.10000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.40649778E+04   0.30669972E+00
+   0.42106230E-01   0.15162445E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.10000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28957832E+04   0.28023067E+00
+   0.24560845E-01   0.11635242E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.99000000000000D+03
+ 'ITIME   '          10 'INTE'
+          11          17           9        1985          17           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     1853560     1853606     1857314     1857671     1862982     1863724
+     1863756     1907538     1951320     1995102     2038884
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.11000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.40264248E+04   0.30918986E+00
+   0.42266745E-01   0.15066062E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.11000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28747217E+04   0.28333393E+00
+   0.26714498E-01   0.11561526E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.10800000000000D+04
+ 'ITIME   '          10 'INTE'
+          12          16          12        1985          18           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     2038916     2038962     2042670     2043027     2048338     2049080
+     2049112     2092894     2136676     2180458     2224240
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.12000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39886702E+04   0.31161371E+00
+   0.42420805E-01   0.14968843E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.12000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28551250E+04   0.28626764E+00
+   0.28784703E-01   0.11492938E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.11700000000000D+04
+ 'ITIME   '          10 'INTE'
+          13          16           3        1986          19           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     2224272     2224318     2228026     2228383     2233694     2234436
+     2234468     2278250     2322032     2365814     2409596
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.13000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39515286E+04   0.31396362E+00
+   0.42573117E-01   0.14866704E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.13000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28362683E+04   0.28901967E+00
+   0.30897586E-01   0.11426939E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.12600000000000D+04
+ 'ITIME   '          10 'INTE'
+          14          14           6        1986          20           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     2409628     2409674     2413382     2413739     2419050     2419792
+     2419824     2463606     2507388     2551170     2594952
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.14000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39146895E+04   0.31622931E+00
+   0.42728208E-01   0.14765396E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.14000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28181357E+04   0.29167062E+00
+   0.32863885E-01   0.11363474E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.13500000000000D+04
+ 'ITIME   '          10 'INTE'
+          15          12           9        1986          21           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     2594984     2595030     2598738     2599095     2604406     2605148
+     2605180     2648962     2692744     2736526     2780308
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.15000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.38781787E+04   0.31838995E+00
+   0.42900592E-01   0.14664992E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.15000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28006199E+04   0.29421991E+00
+   0.34689635E-01   0.11302170E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.14400000000000D+04
+ 'ITIME   '          10 'INTE'
+          16          11          12        1986          22           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     2780340     2780386     2784094     2784451     2789762     2790504
+     2790536     2834318     2878100     2921882     2965664
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.16000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.40392114E+04   0.74040937E+00
+   0.42724464E-01   0.15098028E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.16000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.27934124E+04   0.29453740E+00
+   0.33631697E-03   0.11276120E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.15300000000000D+04
+ 'ITIME   '          10 'INTE'
+          17          11           3        1987          25           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     2965696     2965742     2969450     2969807     2975118     2975860
+     2975892     3019674     3063456     3107238     3151020
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.17000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.40306221E+04   0.82139194E+00
+   0.42337004E-01   0.15076555E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.17000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.27904263E+04   0.29417297E+00
+   0.10594967E-04   0.11265296E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.16200000000000D+04
+ 'ITIME   '          10 'INTE'
+          18           9           6        1987          27           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     3151052     3151098     3154806     3155163     3160474     3161216
+     3161248     3205030     3248812     3292594     3336376
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.18000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.40181189E+04   0.85379696E+00
+   0.41201252E-01   0.15045297E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.18000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.27955439E+04   0.29402941E+00
+   0.72263629E-05   0.11283847E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.17100000000000D+04
+ 'ITIME   '          10 'INTE'
+          19           7           9        1987          28           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     3336408     3336454     3340162     3340519     3345830     3346572
+     3346604     3390386     3434168     3477950     3521732
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.19000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.40095938E+04   0.87068427E+00
+   0.40963199E-01   0.15023984E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.19000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28086956E+04   0.29401428E+00
+   0.48988468E-05   0.11330434E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.18000000000000D+04
+ 'ITIME   '          10 'INTE'
+          20           6          12        1987          29           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     3521764     3521810     3525518     3525875     3531186     3531928
+     3531960     3575742     3619524     3663306     3707088
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.20000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.40027061E+04   0.88122481E+00
+   0.40653653E-01   0.15006765E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.20000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28186704E+04   0.29401487E+00
+   0.35739909E-05   0.11365347E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.18900000000000D+04
+ 'ITIME   '          10 'INTE'
+          21           5           3        1988          30           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     3707120     3707166     3710874     3711231     3716542     3717284
+     3717316     3761098     3804880     3848662     3892444
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.21000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39971104E+04   0.88789093E+00
+   0.40435817E-01   0.14992054E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.21000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28303896E+04   0.29394501E+00
+   0.29142359E-05   0.11406364E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.19800000000000D+04
+ 'ITIME   '          10 'INTE'
+          22           3           6        1988          31           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     3892476     3892522     3896230     3896587     3901898     3902640
+     3902672     3946454     3990236     4034018     4077800
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.22000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39925161E+04   0.89214814E+00
+   0.40270239E-01   0.14979420E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.22000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28418625E+04   0.29386702E+00
+   0.22860086E-05   0.11446519E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.20700000000000D+04
+ 'ITIME   '          10 'INTE'
+          23           1           9        1988          32           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     4077832     4077878     4081586     4081943     4087254     4087996
+     4088028     4131810     4175592     4219374     4263156
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.23000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39888459E+04   0.89488429E+00
+   0.40211521E-01   0.14969326E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.23000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28534556E+04   0.29381749E+00
+   0.17730291E-05   0.11487094E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.21600000000000D+04
+ 'ITIME   '          10 'INTE'
+          24          30          11        1988          33           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     4263188     4263234     4266942     4267299     4272610     4273352
+     4273384     4317166     4360948     4404730     4448512
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.24000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39865286E+04   0.89664936E+00
+   0.40187828E-01   0.14962953E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.24000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28647749E+04   0.29378176E+00
+   0.14126296E-05   0.11526712E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.22500000000000D+04
+ 'ITIME   '          10 'INTE'
+          25          28           2        1989          34           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     4448544     4448590     4452298     4452655     4457966     4458708
+     4458740     4502522     4546304     4590086     4633868
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.25000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39844006E+04   0.89778465E+00
+   0.40134128E-01   0.14957101E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.25000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28634568E+04   0.29375944E+00
+   0.12698091E-05   0.11522099E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.23400000000000D+04
+ 'ITIME   '          10 'INTE'
+          26          29           5        1989          35           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     4633900     4633946     4637654     4638011     4643322     4644064
+     4644096     4687878     4731660     4775442     4819224
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.26000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39820220E+04   0.89850271E+00
+   0.40067371E-01   0.14950560E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.26000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28604299E+04   0.29376519E+00
+   0.13928978E-05   0.11511505E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.24300000000000D+04
+ 'ITIME   '          10 'INTE'
+          27          27           8        1989          36           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     4819256     4819302     4823010     4823367     4828678     4829420
+     4829452     4873234     4917016     4960798     5004580
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.27000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39791978E+04   0.89894712E+00
+   0.40045574E-01   0.14942794E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.27000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28593865E+04   0.29381132E+00
+   0.16370736E-05   0.11507852E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.25200000000000D+04
+ 'ITIME   '          10 'INTE'
+          28          25          11        1989          37           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     5004612     5004658     5008366     5008723     5014034     5014776
+     5014808     5058590     5102372     5146154     5189936
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.28000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39759199E+04   0.89921647E+00
+   0.40045999E-01   0.14933779E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.28000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28578359E+04   0.29390654E+00
+   0.18903721E-05   0.11502426E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.26100000000000D+04
+ 'ITIME   '          10 'INTE'
+          29          23           2        1990          38           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     5189968     5190014     5193722     5194079     5199390     5200132
+     5200164     5243946     5287728     5331510     5375292
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.29000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39721997E+04   0.89937413E+00
+   0.40044099E-01   0.14923550E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.29000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28560286E+04   0.29405519E+00
+   0.21375388E-05   0.11496100E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '
+ 'TIME    '           1 'DOUB'
+   0.27000000000000D+04
+ 'ITIME   '          10 'INTE'
+          30          24           5        1990          39           1
+           1           0           1           0
+ 'NAME    '          11 'CHAR'
+ 'SEQNUM  ' 'INTEHEAD' 'LOGIHEAD' 'DOUBHEAD' 'DLYTIM  ' 'STARTSOL' 'PRESSURE'
+ 'SWAT    ' 'SGAS    ' 'RS      ' 'ENDSOL  '
+ 'TYPE    '          11 'CHAR'
+ 'INTE    ' 'INTE    ' 'LOGI    ' 'DOUB    ' 'DOUB    ' 'MESS    ' 'REAL    '
+ 'REAL    ' 'REAL    ' 'REAL    ' 'MESS    '
+ 'NUMBER  '          11 'INTE'
+           1         298         105         223          30           0
+        2500        2500        2500        2500           0
+ 'POINTER '          11 'INTE'
+     5375324     5375370     5379078     5379435     5384746     5385488
+     5385520     5429302     5473084     5516866     5560648
+ 'POINTERB'          11 'INTE'
+           0           0           0           0           0           0
+           0           0           0           0           0
+ 'ARRAYMAX'          11 'REAL'
+   0.30000000E+02   0.20110100E+06   0.00000000E+00   0.10000000E+21
+   0.00000000E+00   0.00000000E+00   0.39680776E+04   0.89946169E+00
+   0.40047228E-01   0.14912214E+01   0.00000000E+00
+ 'ARRAYMIN'          11 'REAL'
+   0.30000000E+02  -0.10737418E+10   0.00000000E+00  -0.20000000E+21
+   0.00000000E+00   0.00000000E+00   0.28540444E+04   0.29425761E+00
+   0.23520699E-05   0.11489155E+01   0.00000000E+00
+ 'MEASRMNT'          66 'CHAR'
+ 'E:Intern' 'al      ' '        ' '        ' '        ' '        ' 'E:Intern'
+ 'al      ' '        ' '        ' '        ' '        ' 'E:Intern' 'al      '
+ '        ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        ' 'E:Intern' 'al      ' '        ' '        '
+ '        ' '        ' 'E:Intern' 'al      ' '        ' '        ' '        '
+ '        ' 'O:Pressu' 're      ' '        ' '        ' '        ' '        '
+ 'O:Satura' 'tion    ' '        ' '        ' '        ' '        ' 'O:Satura'
+ 'tion    ' '        ' '        ' '        ' '        ' 'O:Gas_To' '_Liquid_'
+ 'Ratio   ' '        ' '        ' '        ' 'E:Intern' 'al      ' '        '
+ '        ' '        ' '        '

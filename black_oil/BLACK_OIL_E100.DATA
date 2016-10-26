@@ -1,0 +1,121 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Simulation File (DATA) Data Section Version 2013.1 Jun 14 2013
+-- -----------------------------------------------------------------------------
+--
+-- File: BLACK_OIL_E100.DATA
+-- Created on: 19-Oct-2016 at: 23:20:42
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+ 
+RUNSPEC
+ 
+TITLE
+Title
+ 
+START
+ 1 'JAN' 1983 /
+ 
+FIELD
+ 
+FMTIN
+ 
+UNIFIN
+ 
+FMTOUT
+ 
+UNIFOUT
+ 
+GAS
+ 
+OIL
+ 
+WATER
+ 
+DISGAS
+ 
+MONITOR
+ 
+RSSPEC
+ 
+NOINSPEC
+ 
+MSGFILE
+ 1 /
+ 
+DISPDIMS
+ 1 2 1 /
+ 
+DIMENS
+ 50 50 1 /
+ 
+SCDPDIMS
+ 0 0 0 0 0 /
+ 
+EQLDIMS
+ 1 100 20 1 20 /
+ 
+REGDIMS
+ 1 1 0 0 /
+ 
+TABDIMS
+ 1 1 20 20 1 20 10 1 /
+ 
+WELLDIMS
+ 10 100 2 10 /
+ 
+ 
+GRID
+ 
+GRIDFILE
+ 2 /
+ 
+INCLUDE
+'black_oil_gopp.inc'  /
+
+INCLUDE
+'black_oil_ggo.inc'  /
+
+INCLUDE
+'black_oil_gpro.inc'  /
+
+ 
+PROPS
+ 
+INCLUDE
+'black_oil_pvt.inc'  /
+
+INCLUDE
+'black_oil_scal.inc'  /
+
+
+REGIONS
+
+INCLUDE
+'black_oil_reg.inc'  /
+
+ 
+SOLUTION
+ 
+INCLUDE
+'black_oil_init.inc'  /
+
+ 
+SUMMARY
+ 
+INCLUDE
+'black_oil_sum.inc'  /
+
+ 
+SCHEDULE
+ 
+INCLUDE
+'black_oil_sch.inc'  /
+
+ 
+END

@@ -1,0 +1,17 @@
+   UpdateGridUnits( Grid = "Grid1" )
+   UpdateWellUnits( Wells = "Wells1" )
+   SetPreferredUnits( Units = "ECLIPSE-FIELD",  Broadcast = "FALSE" )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   SelectProp( GridComposite = "GridComposite1",  PropName = "PRESSURE",   &
+      PropType = "RECR",  Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite1",  TimeStep = 0,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite1",  TimeStep = 29,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite1",  TimeStep = 29,   &
+      Update = "TRUE" )

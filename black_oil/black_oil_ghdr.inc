@@ -1,0 +1,23 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Grid Header (GRIDGHDR) Data Section Version 2013.1 Jun 14 2013
+-- -----------------------------------------------------------------------------
+--
+-- File: black_oil_ghdr.inc
+-- Created on: Oct-18-2016 at: 15:19:18
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+-- Off GRIDGHDR GRID Module GridType: "Cartesian"
+-- Off GRIDGHDR GRID Module NX:         50
+-- Off GRIDGHDR GRID Module NY:         50
+-- Off GRIDGHDR GRID Module NZ:          1
+-- Off GRIDGHDR GRID Module Grid Transformation:          6          3
+-- Off GRIDGHDR  0.0000000000000e+000  0.0000000000000e+000  1.0000000000000e+000
+-- Off GRIDGHDR  0.0000000000000e+000  0.0000000000000e+000  1.0000000000000e+000
+-- Off GRIDGHDR GRID Module Number of Layers:          1
+-- Off GRIDGHDR GRID Module Grid Item Status:          1

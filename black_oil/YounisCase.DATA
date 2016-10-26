@@ -1,0 +1,196 @@
+-- Eclipse data file
+RUNSPEC  ==================================================
+TITLE
+Two Phase Black Oil
+
+DIMENS
+   25    25   7  /
+
+OIL
+
+WATER
+
+FIELD
+
+START
+26 NOV 2012  /
+
+WELLDIMS
+    10   100    1    10  /
+
+CART
+
+FULLIMP
+
+-- TODO
+TABDIMS
+    1 1 /
+
+-- linear solver stack size
+NSTACK
+   25 /
+
+GRID     =======================================================
+
+DXV
+   25*20.0 /
+
+DYV
+   25*20.0 /
+
+DZ
+   4375*2.0 /
+
+-- depth to top of cells on upper plane (center TOPS+0.5DZ)
+-- NX * NY = 25 * 25 = 625
+TOPS
+   625*4500.0 /
+
+EQUALS
+PORO   0.35 1 25 1 25 1 7 /
+PERMX  5.23 1 25 1 25 1 7 /
+PERMY  5.23 1 25 1 25 1 7 /
+PERMZ  2.76 1 25 1 25 1 7 /
+/
+
+OLDTRANR
+
+-- writes initial grid info to file for GRAF
+INIT
+
+-- Report Levels for Grid Section Data
+-- RPTGRID
+-- 'DX' 
+-- 'DY' 
+-- 'DZ' 
+-- 'PERMX' 
+-- 'PERMY' 
+-- / 
+
+PROPS    =======================================================
+
+SWOF
+-- Sw  Krw     Krow     Pcow
+0.0    0.0     1.0      100.0
+0.22   0.0484  0.98     7.0
+0.3    0.09    0.4      4.0
+0.4    0.16    0.125    3.0
+0.6    0.36    0.0649   2.0
+0.8    0.64    0.0048   1.0
+0.9    0.83    0.0      0.7
+1.0    1.0     0.0      0.0 /
+
+ROCK
+-- pref  Cr
+2500.0    3.4E-04
+/
+
+PVTW
+-- pref Bwref    Cw        muwref   Cmuw
+3600.0  1.00341  3.0E-04   0.52341  1.2E-06  /
+
+DENSITY
+-- lbs/ft3
+-- O W
+45.0  63.02 /
+
+PVDO
+400.0     1.012    1.16 
+1200.0    1.004    1.164
+2000.0    0.996    1.167
+2800.0    0.988    1.172
+3600.0    0.9802    1.177
+4400.0    0.9724    1.181
+5200.0    0.9646    1.185
+5600.0    0.9607   1.19
+/
+
+RPTPROPS
+ROCK SGFN SWFN PVTW PVDO /
+
+SOLUTION   =====================================================
+
+--  NX * NY  * NZ = 25 * 25 * 7 = 4375
+PRESSURE
+4375*2500.0 /
+
+SWAT
+4375*0.25  /
+
+RPTSOL
+PRESSURE SOIL SWAT /
+
+SUMMARY    =====================================================
+
+EXCEL
+
+FOE
+
+FWIR
+
+FOPR
+ 
+FOPT
+
+FWPR
+
+FWPT
+
+FLPR
+
+WBHP
+'INJ' 'PROD'/
+
+WWCT
+'PROD'/
+
+BPR
+25 25 7/
+1 1 7/
+/
+BWSAT
+25 25 7/
+1 1 7/
+/
+
+
+
+
+
+SCHEDULE   =====================================================
+
+WELSPECS
+'INJ'    'WGRP'    1   1    4502.0    'WATER'    /    
+'PROD'   'WGRP'    25  25   4502.0    'OIL'      /    
+/
+
+COMPDAT
+'INJ'    0  0  7  7  'OPEN'  1*  1*  1  1*  0  1*  'Z'  1*  /
+'PROD'   0  0  7  7  'OPEN'  1*  1*  1  1*  0  1*  'Z'  1*  /
+/
+
+
+
+WCONINJE
+ 'INJ'    'WATER'   'OPEN'   'RATE'  0.75  /
+/
+
+WCONPROD
+'PROD'  'OPEN'   'BHP'   5*   2450.0   /
+/
+
+ZIPP2OFF
+
+RPTRST
+BASIC=2 ALLPROPS PWAT PORV /
+
+RPTSCHED
+'POIL' 'SWAT' 'WELSPECS' 'RESTART=2' 'NEWTON=2' /
+
+TSTEP
+1 2 4 8 16 32 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 
+/
+
+END
+
+

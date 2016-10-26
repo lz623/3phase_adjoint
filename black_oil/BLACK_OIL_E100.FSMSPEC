@@ -1,0 +1,37 @@
+ 'RESTART '           9 'CHAR'
+ '        ' '        ' '        ' '        ' '        ' '        ' '        '
+ '        ' '        '
+ 'DIMENS  '           6 'INTE'
+           6          50          50           1           0          -1
+ 'KEYWORDS'           6 'CHAR'
+ 'TIME    ' 'YEARS   ' 'WBHP    ' 'WGPR    ' 'WOPR    ' 'WWPR    '
+ 'WGNAMES '           6 'CHAR'
+ ':+:+:+:+' ':+:+:+:+' 'INJ     ' 'PROD    ' 'PROD    ' 'PROD    '
+ 'NUMS    '           6 'INTE'
+      -32767      -32767           0           0           0           0
+ 'MEASRMNT'          36 'CHAR'
+ 'O:Simula' 'tion_Tim' 'e       ' '        ' '        ' '        ' 'E:Coarse'
+ ' time   ' '        ' '        ' '        ' '        ' 'O:Pressu' 're      '
+ '        ' '        ' '        ' '        ' 'O:Gas_Fl' 'owrate  ' '        '
+ '        ' '        ' '        ' 'O:Liquid' '_Flowrat' 'e       ' '        '
+ '        ' '        ' 'O:Liquid' '_Flowrat' 'e       ' '        ' '        '
+ '        '
+ 'UNITS   '           6 'CHAR'
+ '  DAYS  ' 'YEARS   ' '  PSIA  ' 'MSCF/DAY' ' STB/DAY' ' STB/DAY'
+ 'STARTDAT'           3 'INTE'
+           1           1        1983
+ 'RUNTIMEI'          50 'INTE'
+           2           0          30        2016          10          24
+          18          30          15        2016          10          24
+          18          30          16          24           5        1990
+           2          37           1           9           0           0
+           0           0           3           0           1           1
+           0           0           0           0           2           0
+           0           0           0           0           0           0
+           0           0           0           0           0           0
+           0           0
+ 'RUNTIMED'           5 'DOUB'
+   0.27000000000000D+04   0.99199998378754D+00   0.99199998378754D+00
+   0.00000000000000D+00   0.00000000000000D+00
+ 'TIMESTMP'           6 'INTE'
+        2016          10          25           0          30          16

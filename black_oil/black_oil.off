@@ -1,0 +1,573 @@
+--Eclipse Office: Version '2013.1 Jun 14 2013'
+Project Name: black_oil
+Number of GRIDs: 1
+'black_oil_ghdr' 'black_oil_ghdr.inc'
+Number of GRIDs Operational and Parallel: 1
+'black_oil_gopp' 'black_oil_gopp.inc'
+Number of GRIDs GEOMETRY: 1
+'black_oil_ggo' 'black_oil_ggo.inc'
+Number of GRIDs PROPERTIES: 1
+'black_oil_gpro' 'black_oil_gpro.inc'
+Number of GRIDs The Rest: 0
+Number of EDITs: 0
+Number of PVTs: 1
+'black_oil_pvt' 'black_oil_pvt.inc'
+Number of SCALs: 1
+'black_oil_scal' 'black_oil_scal.inc'
+Number of INITs: 1
+'black_oil_init' 'black_oil_init.inc'
+Number of SUMs: 1
+'black_oil_sum' 'black_oil_sum.inc'
+Number of REGs: 1
+'black_oil_reg' 'black_oil_reg.inc'
+Number of SCHEDs: 1
+'black_oil_sch' 'black_oil_sch.inc'
+Number of VFPs: 0
+Number of MRs: 0
+Number of OPTs: 0
+Number of Cases: 1
+++++++++++++++++++++++++++++++++++++++++
+Case Name: black_oil
+Parent Name: black_oil
+Case Type: 0
+Creator: zhl505
+Creation Date: 18 Oct 2016
+Notes: 15
+
+-
+OFFICE RUNSPEC (RUN) DATA SECTION VERSION 2013.1 JUN 14 2013
+-
+
+FILE: BLACK_OIL_RUN.INC
+CREATED ON: 18-OCT-2016 AT: 21:42:03
+
+*****************************************************************************
+*                                  WARNING                                  *
+*                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+*          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+*****************************************************************************
+
+OFFICE-RUNSPEC-HEADER-DATA
+Run Environment: 
+ECLRUN
+Simulator Version: 2013.1
+Executable: C:\ecl\2013.1\bin\pc_x86_64\eclipse.exe
+HostName: S2245PC8
+Macro Parameters: 
+-exec 1 -local
+Remote Host Path: /tmp/
+: C:\ecl\macros\eclrun.exe
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 3000
+Simulator: BlackOil
+Simulation Start Day: 1
+Month: JAN
+Year: 1983
+Title: 
+Title
+Solution Type: FullyImplicit
+Run Type: Normal
+Grid Type: Cartesian
+Geometry Type: BlockCentred
+Units: Field
+Water: TRUE
+Oil: TRUE
+Gas: TRUE
+Dissolved Gas: TRUE
+Vaporised Oil: FALSE
+Input File Type: Unified
+Output File Type: Unified
+Save File Type: Multiple
+Input File Format: Formatted
+Output File Format: Formatted
+Save File Format: Unformatted
+Save File Control: Overwrite
+Multiple Save File: FALSE
+Unified Save File: FALSE
+Grid Header: black_oil_ghdr
+Grid Parallel/Operational: black_oil_gopp
+Grid Geometry: black_oil_ggo
+Grid Properties: black_oil_gpro
+Grid Other: 
+Edit: 
+PVT: black_oil_pvt
+SCAL: black_oil_scal
+Regions: black_oil_reg
+Initialisation: black_oil_init
+Schedule: black_oil_sch
+Summary: black_oil_sum
+Sensitivities: 
+Optimize: 
+Number of Includes: 0
+Load File Name: 
+Load Report Number: 0
+Restart File Name: 
+Restart Report Number: 0
+Eclipse Simulation File: BLACK_OIL_E100
+E300 Simulation File: 
+FrontSim Simulation File: 
+ComSim Simulation File: 
+Simulation GRID File: C:\Users\zhl505\Desktop\black_oil\BLACK_OIL_E100.GRID
+GRID File Flag: Standard
+INIT File Flag: FALSE
+Number of Scenarios: 1
+Restart Day: 1
+Restart Month: JAN
+Restart Year: 1983
+Number of GETDATA: 0
+USEFLUX: 
+USECUPL: 
+Unified Summary Output Files: FALSE
+Multiple Summary Output Files: FALSE
+API Tracking: FALSE
+Aquifers: FALSE
+Analytical: FALSE
+Numerical: FALSE
+Black Oil Option: FALSE
+Brine Tracking: FALSE
+CO2 in Aqueous Phase: FALSE
+CPR Acceleration: FALSE
+Molecular Diffusion: FALSE
+Disking Option: FALSE
+Matrix Disking Number: 0
+Grid Disking: FALSE
+Tracer Disking: FALSE
+Max Rate of Pc Change: 0.01
+Max Derivative of Pc: 1
+Dual Permeability: FALSE
+Fractured Reservoir: FALSE
+Viscous Displacement: FALSE
+NOSIM if E100 Keyword: FALSE
+End Point Scaling: FALSE
+Directional: FALSE
+Irreversible: FALSE
+Quiescence: FALSE
+Threshold Pressure Option: FALSE
+Irreversible Threshold Pressure: FALSE
+Initial Saturation End Point Correction: FALSE
+Formatted Derivatives: FALSE
+Freeze Capillary Pressures: FALSE
+Fracture Completions: FALSE
+Gas Condensate (ISGAS): FALSE
+Accurate Gas Solubilities (GASWAT): FALSE
+Gravity Drainage: FALSE
+Alternative Gravity Drainage: FALSE
+Allow Re-infiltration: TRUE
+Alternative Multipliers: FALSE
+Horizontal Wells: FALSE
+Apply Hysteresis to Relative Permeabilities: FALSE
+Apply Hysteresis to Capillary Pressures: FALSE
+Hysteresis Option: FALSE
+Jargon Hysteresis Option: FALSE
+INIT Specification File: FALSE
+K-values: FALSE
+Licenses: FALSE
+Miscible Gas Flood: FALSE
+Surface Tension dependence in Rel Perms: FALSE
+Surface Tension dependence in Cap Pressure: FALSE
+Maximum Number of Miscible Tables: 1
+Maximum Number of Nodes in a Miscible Table: 20
+Two Point Upstreaming for Rel Perms: FALSE
+Run Time Monitoring: TRUE
+Multiple RHS: FALSE
+Number of Components: 1
+Number of cells in Domain: 500
+9 Point NNC Scheme: FALSE
+X-Z 9 Point Transmissibility Option: FALSE
+Y-Z 9 Point Transmissibility Option: FALSE
+Number of Matrix Cell Sub-Divisions: 0
+Implicit LGR cells: FALSE
+Dual Porosity Condensation: FALSE
+Dual Porosity Permeability Multplier: FALSE
+Suppress Krow/Krgw Interpolation: FALSE
+No Non-Neighbour Connections: FALSE
+9-Point Non-Orthogonal Pressure Correction: FALSE
+Turn Off Simulation: FALSE
+Stack size of Previous search directions: 10
+CPR Inner Pressure Iteration Stack Size: 10
+Number of Reservoirs: 1
+Number of Iterations to Update Well Flow Targets: 3
+Paths: FALSE
+Assign Phase States by Saturation Pressure Calculation: FALSE
+Output Run Summary during run: FALSE
+Restart Specification File: TRUE
+Rock Compaction: FALSE
+Rock Compaction Type: Reversible
+Number of Rock Compaction Tables: 1
+Water Induced: FALSE
+HMD Output File: FALSE
+Output RUNSPEC Data: FALSE
+Directional Rel Perms: FALSE
+Irreversible Directional Rel Perms: FALSE
+Hysteresis: FALSE
+Surface Tension: FALSE
+Temperature: FALSE
+Thermal Option: LiveOil
+Tracers: FALSE
+Diffusion Control: FALSE
+Track Fluids Option: FALSE
+Tracking Type: Gas-OilContact
+Depth: 0
+Normalised: FALSE
+Transport Coefficient: FALSE
+Value: 1
+Un-encoded History Matching Derivatives: FALSE
+Vertical Equilibrium: FALSE
+Compressed: FALSE
+Size of Vector Property Table: 1000
+Velocity Dependent Rel Perms: FALSE
+Oil Capillary Model: 0
+Gas Capillary Model: 0
+Oil Forcheimer Model: 0
+Gas Forcheimer Model: 0
+ROCK corresponds to SCAL Regions: FALSE
+Options: FALSE
+Options: FALSE
+Options: FALSE
+Debug: FALSE
+Debug: FALSE
+Messages: FALSE
+Run without gravity force: FALSE
+SEGREGATION FLOW: FALSE
+Generalized FD Method: FALSE
+Allow large models to run: FALSE
+Use Linear Solver Tracer Algorithm: FALSE
+Disable Initial Index File output: TRUE
+Disable output for Run-time Monitoring: FALSE
+Disable Restart Index File output: FALSE
+Partitioned Tracer Option: FALSE
+Nested Factorisation Solver Dimensions: FALSE
+Disables DPCDT option: FALSE
+Lumping Components Option: FALSE
+Extra Scaling of Hc Rel Perms: FALSE
+Modify Densities for Single Phase Hc: FALSE
+No Pc Split: FALSE
+Flows Vary Continuously: FALSE
+WARP Linear Solver: FALSE
+Tracer Calculation Shortcuts: FALSE
+Chemical Reactions: FALSE
+Fast Flash Option: FALSE
+Alternative Formulation in Blackoil Cases: FALSE
+Petro-elastic Model: FALSE
+Model Solid Phase: FALSE
+Sector Model: FALSE
+Boundary Conditions: NOFLOW
+Full field base name: 
+Algebraic Multigrid Solver: FALSE
+Passive Tracer Non-Linear: FALSE
+One off Linear Convergence Tightening Factor: -1e+033
+One off Non-Linear Convergence Tightening Factor: -1e+033
+Subsequent Convergence Tightening Factors: 1
+Number of times applied: 0
+Fractures: FALSE
+Perform multi-phase flash: FALSE
+Max No of Quantity that can be output to Restart Files: FALSE
+Max No of Quantity that can be output to Restart Files: 3600
+Compresses internal well arrays: FALSE
+Compresses internal well arrays Value: -999999
+Request a Production Optimization Simulation.: FALSE
+MEMSAVE Up-Front Memory facility: FALSE
+Parameters for the ACTION Facility: FALSE
+Max % violation of ACTIONx type condition: 100
+Default fractional equality tolerance: 0.0001
+Activate the non-Newtonian fluid option: FALSE
+Number of tables(Sane as NTPVT): 0
+Number of rows in the tables: 0
+Tolerance for stopping criterion: 0.0001
+Reuse the coarse grid: TRUE
+Control Output of the message file: TRUE
+First Input to MSGFILE: 1
+Turns on Pseudo Steady-State calculation: FALSE
+Day of the month: -999999
+Name of the Month: 
+Year: 
+Closeness to steady-state: MAXABS
+Pressure Tolerance: -1e+033
+Oil Saturation Tolerance: -1e+033
+Water Saturation Tolerance: -1e+033
+Gas Saturation Tolerance: -1e+033
+Brine Concentration Tolerance: -1e+033
+Upper limit for time-stepping in days: -1e+033
+Alternative Gas Capillary Model: 0
+Water Components: FALSE
+Number of Components: 1
+Coal Bed Methane Options: FALSE
+Instant Option: FALSE
+NNC Information in INIT File: FALSE
+Suppress Fault Transmissibility Calculations: FALSE
+Output PV, transmissibilty arrays and NNC to INIT File: FALSE
+Sensitivities wrt grid properties using adjoint method: FALSE
+CO2 Sequestration Option: FALSE
+Linear solver for thermal problems: FALSE
+Linear solver for thermal problems Value: 1
+Memory location for inner iteration search directions: FALSE
+Memory location for outer iteration search directions: FALSE
+: FALSE
+Integer seed value for the RANDN and RANDU random number functions: 1
+The permitted range of the user defined quantities: 1e+020
+Value given to undefined elements when outputting data: 0
+The fractional equality tolerance: 0.0001
+: FALSE
+Characterization Criterion: WEIGHT
+Permeability Damage Model:  
+Viscosity Model:  
+: FALSE
+Use Iterative Linear Solver: NO
+Maximum number of linear iterations: 30
+Convergence limit: 1e-008
+ILU Fill-in: 0
+ILU Drop tolerance: 0
+: FALSE
+Use Well Potential calculation: NO
+: FALSE
+Number of matrix porosities: 1
+: FALSE
+: FALSE
+: FALSE
+Lower limit for time-stepping in days: -1e+033
+Improve initial equilbration of analytic aquifers: NO
+Coal Bed Methane: FALSE
+Environmental Tracers: FALSE
+Flux Boundary Conditions: FALSE
+Foam Model: FALSE
+Gas Calorific Value Control: FALSE
+Gas Field Operations: FALSE
+Extended Compressor Option: FALSE
+Accelerated Iteration Option: FALSE
+Gas lift Optimisation: FALSE
+GI Pseudo Compositional Model: FALSE
+Local Grid Refinement & Coarsening: FALSE
+Maximum Number of LGRs: 1
+Maximum Number of cells in an LGR: 200
+Maximum Number of amalgamated coarse cells: 0
+Maximum Number of LGR amalgamations: 0
+Maximum Number of LGRs in any amalgamations: 0
+Stack size of Previous search directions: 10
+Pressure Interpolation: FALSE
+Max Number of coarse cells in domain: 0
+Auto Refinement: FALSE
+X Refinement: 1
+Y Refinement: 1
+Z Refinement: 1
+Transmissibility Multiplier Option: 0
+Network Option: FALSE
+Maximum number of nodes in Network Model: 0
+Maximum number of branches in Network Model: 0
+Maximum number of branches per node in Network Model: 20
+Parallel Options: FALSE
+Type of Run: DISTRIBUTED
+Number of Domains: 1
+Processes in X Direction: 1
+Processes in Y Direction: 1
+PDIVX: FALSE
+PDIVY: FALSE
+PHOST: FALSE
+Polymer Flood Model: FALSE
+Reservoir Coupling: FALSE
+Solvent Model: FALSE
+Surfactant Model: FALSE
+Modelling Wettability Changes (Surfactant): FALSE
+Wellbore Friction Model: FALSE
+Multi Segmented Well Model: FALSE
+Geomechanics Option: FALSE
+Calculation Type: 
+Run Interval: R
+Maximum Geomechanics Regions: 1
+Number of rows in PERMSTAB table: 1
+Number of columns in PERMSTAB table: 1
+Number of rows in BIOTCTAB table: 1
+Number of columns in BIOTCTAB table: 1
+Parallel Divisions in X Direction: FALSE
+Parallel Divisions in Y Direction: FALSE
+Finite element stress calculation: FV
+Porosity-stress relationship model: RMBAL
+Equilibration Method: INIT
+Compressive Stresses: COMPN
+Equation of States Option: 
+Initial Thermal Stress Calculation: NOINITH
+Maximum Number of Summary Quantities: 10000
+Max Lines in Numerical Aquifer Data: 0
+Max Connection Lines in Numerical Aquifer Data: 0
+Max Influence Tables for Carter-Tracy Aquifer: 2
+Max Rows in Carter Tracy Influence Table: 1
+Number Analytical Aquifers: 0
+Max Connections to an Analytic Aquifer: 0
+Max Aquifers: 1
+Max Aquifer Connections: 1
+Number of cells in X direction: 50
+Number of cells in Y direction: 50
+Number of cells in Z direction: 1
+Maximum Number of End Point Scaling v Depth Tables: 1
+Number of End Point Scaling Depth Nodes: 20
+Number of Equilibration Regions: 1
+Number of Equilibration Depth Nodes: 100
+Maximum Number of Depth Nodes: 20
+Maximum Number of Initial Tracer Concentration Tables: 1
+Maximum Number of Initial Tracer Concentration Depth Nodes: 20
+Maximum Number of Fault Segments: 0
+Maximum Number of Wells requiring Wellbore Friction: 0
+Maximum Number of Well Branches for Wellbore Friction: 0
+Maximum Number of Gas Plant Tables: 0
+Maximum Number of Rows of Gas Plant Table Data: 0
+Memory Required: 0
+Character Memory Required: 0
+Maximum Number of Fluid in Place Regions: 1
+Number of Sets of Fluid in Place Regions: 1
+Maximum Number of Independent Reservoir Regions: 0
+Maximum Number of Flux Regions: 0
+Maximum Number of Rock Types: 1
+Maximum Number of Connections per Rock Type: 0
+Maximum Number of Lines of Connection Data: 0
+Number of Saturation Tables: 1
+Number of PVT Tables: 1
+Max Saturation Nodes in a Table: 20
+Max PVT Nodes in a Table: 20
+Max Rs Nodes in a Table: 20
+Max Rv Nodes in a Table: 10
+Max End Point v Depth Tables: 1
+Max EOS Reservoir Regions: 1
+Max EOS Surface Regions: 1
+Max EOS Thermal Regions: 1
+Max Rock Tables: 1
+Max Pressure Maintenence Regions: 0
+Max Temperature Cut Back Tables: 1
+Max Rows in Temperature Cut Back Table: 10
+Max Passive Oil Tracers: 0
+Max Passive Water Tracers: 0
+Max Passive Gas Tracers: 0
+Max Passive Environmental Tracers: 0
+Max Injection Flow Values per Table: 0
+Max Injection THP Values per Table: 0
+Max Injection VFP Tables: 0
+Max Flow Values per Table: 0
+Max THP Values per Table: 0
+Max Water Fraction Values per Table: 0
+Max Gas Fraction Values per Table: 0
+Max Artifical Lift Quantities per Table: 0
+Max VFP Tables: 0
+Max Wells: 10
+Max Connections per Well: 100
+Max Groups: 2
+Max Wells in a Group: 10
+Max Stages per Separator: 5
+Max Wellstreams: 10
+Max Mixtures: 5
+Max Separator Conditions: 4
+Max Mixture Items: 3
+Action Keyword: FALSE
+Max Actions: 2
+Max Lines in an Action: 50
+Max Chars in an Action Line: 80
+Max PI Scaling Tables: 0
+Max Entries in PI Scaling Table: 0
+Max Gradient Regions: 0
+Max Gradient Sub-Region: 0
+Max Gradients: 0
+Max Aquifer Gradients: 0
+Max PI Mult Gradients: 0
+Max Contact Depth Gradients: 0
+Max Rock Parameter Gradients: 0
+Max MULTNUM Regions: 0
+Max PINCHNUM Regions: 0
+Max Multi Segmented Wells: 0
+Max MS Well Segments: 1
+Max MS Well Branches: 1
+Max Heater Connections: 1
+No. Scale Deposition Tables: 0
+Max Rows in Scale Deposition Table: 0
+No. Scale Damage Tables: 0
+Max Rows in Scale Damage Table: 0
+Max Partitioned Tracers: 0
+Max K(P) Tables describing Partition: 0
+Max Pressure points in K(P) Table: 0
+Number of Solver cells in X direction: 0
+Number of Solver cells in Y direction: 0
+Number of Solver cells in Z direction: 0
+Number of Lumped Components: 1
+Max Detailed Components per Lumped Component: 0
+Max Tracer Non Linear Iterations: 12
+Maximum Number of User Defined Track Regions: 0
+Max Temperature Dependent K-Value Tables: 0
+Max Cross Domain Completions: 0
+Number of Reactions: 0
+Total Equilibration Deviation Terms: 0
+Total Equilibration Deviation k-values: 0
+Min Tracer Non Linear Iterations: 1
+Number of Petro-elastic regions: 1
+Number of Pressure points in PE tables: 0
+First x block of sector: 0
+Last x block of sector: 0
+First y block of sector: 0
+Last y block of sector: 0
+First z block of sector: 0
+Last z block of sector: 0
+Max number of Fracture Regions: 1
+Max number of Fracture Segments: 0
+Max number of rows in FRACMOVE table: 1
+Max number of rows in LEAKOFF table: 1
+The maximum number of well lists that a well may belong to at any one time: 1
+The maximum number of dynamic well lists in the simulation: 1
+The total number of tracer dependent rate terms: 0
+The maximum number of transport coefficient table (ALPHA) regions: 1
+The maximum number of conditions in an ACTIONX keyword: 3
+The number of dispersion tables: 1
+The maximum number velocity nodes in any dispersion table: 2
+The maximum number of concentration nodes per velocity node in any dispersion table: 1
+River dimension data: FALSE
+The maximum number of rivers in the model: 0
+The maximum number of reaches per well: 1
+The maximum number of branches in a river (including the main channel): 1
+The maximum number of grid blocks to be associated with any one river: 1
+Number of tables describing channel profile: 1
+Maximum number of depth entries in a channel profile table, or bed contact area table: 2
+Number of tables describing contact areas between grid blocks and the river bed: 1
+Number of depth tables used as boundary conditions: 1
+The maximum number of entries in a downstream boundary condition depth table: 2
+The number of massflow (boundary condition) tables: 1
+The maximum number of entries in a massflow table: 2
+Number of rating tables: 1
+The maximum number of entries in a rating table: 2
+The maximum number of aquifer lists: 0
+The maximum number of analytic aquifers in any single aquifer list: 0
+Maximum number of coal bed methane regions: 1
+No. Scale Damage Tables in SCDATABG: 1
+Max Rows in Scale Damage Table in SCDATABG: 0
+Max Well Connection Parameter Gradients: 0
+The Maximum Allowable number of fracture planar segments allowed per cell: 5
+The maximum number of grouping bins due to the number of fractures contained in a cell: 3
+The maximum number of grouping bins due to the value of cell permeability: 3
+Requests multiple water component model: 1
+Interpolated Block Quantities: FALSE
+The maximum number of lines of block interpolated data for Global Grids: 10
+The maximum number of lines of block interpolated data for Local Grids: 1
+The number of Karst Aquifer Dissolution Tables: 0
+: FALSE
+Max functions permitted in a quantity definition: 16
+Max arguments permitted in a quantity definition: 16
+Max user defined connection quantities: 0
+Max user defined field quantities: 0
+Max user defined group quantities: 0
+Max user defined region quantities: 0
+Max user defined segment quantities: 0
+Max user defined well quantities: 0
+: FALSE
+Max well gradient parameters: 0
+Max user defined aquifer quantities: 0
+Max user defined block quantities: 0
+Max MS Chord links: 1
+: FALSE
+Max user defined group arguments: 0
+Max user defined well arguments: 0
+: FALSE
+Max dynamic regions: 0
+Max dynamic region families: 0
+Max dynamic region records: 0
+Total number of equilibrium tables: 0
+++++++++++++++++++++++++++++++++++++++++
